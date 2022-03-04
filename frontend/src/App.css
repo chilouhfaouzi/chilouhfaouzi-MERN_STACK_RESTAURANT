@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+ul li {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  color: #fff;
+  font-size: 18px;
+  font-family: "Arial";
+  font-weight: bold;
+}
